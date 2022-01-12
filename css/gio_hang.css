@@ -112,7 +112,13 @@
     font-weight: bold;
     text-decoration: underline;  
     
+    
 }
+.discount_code .textinput:hover{
+  
+    cursor: pointer;
+}
+
 .img-descript .price-product{
     padding: 10px 0px;
 }
